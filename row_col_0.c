@@ -13,7 +13,6 @@ int main()
     if(a[0][i]==0)
       r=0;
   }
-
   for(i=1;i<n;i++)
     for(j=1;j<n;j++)
     {
